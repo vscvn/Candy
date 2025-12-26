@@ -3,7 +3,7 @@
         "device_id": "3d23bf15f3b7c22d",
         "key": "key12345",
         "expirydate": "31-12-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "device123",

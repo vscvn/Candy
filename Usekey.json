@@ -1,26 +1,14 @@
-[
+{
+  "AdminUrl": "https://t.me/vinhsc",
+  "Marquee": "Message the admin to buy a VIP key. Only paid users allowed.",
+  "Users": [
     {
-        "device_id": "3d23bf15f3b7c22d",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
+      "ID": "3D23BF15F3B7C22D",
+      "Expiry": "27/12/2026"
     },
     {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
+      "ID": "FRIEND_DEVICE_ID_HERE",
+      "Expiry": "01/01/2025"
     }
-]
+  ]
+}
